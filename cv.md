@@ -4,7 +4,7 @@
 
 ## Contacts
 * **Address:** Nizhny Novgorod
-* **Phone:** +7903\*\*\*\*\*\*\*
+* **Phone:** +7903606\*\*\*\*
 * **E-mail:** Hrulia@rambler.ru
 * **GitHub:** [Hrulia](https://github.com/Hrulia")
 * **Discord:** Sergey M(@Hrulia)
